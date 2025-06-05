@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+
+body{
+    background-color: burlywood;
+}
+
+img{
+    display:block;
+
+    width:500px;
+    margin:0 auto;
+}

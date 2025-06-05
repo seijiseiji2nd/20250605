@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+h1{
+    color: blue;
+    font-size: 50px;
+    margin-bottom: 30px;
+
+}
+
+h2, h3, h4{
+    color:rgb(13, 222, 86);
+}
